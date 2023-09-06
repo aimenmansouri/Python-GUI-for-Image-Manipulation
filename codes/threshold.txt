@@ -1,0 +1,1 @@
+img = my.seuillage(img,40)

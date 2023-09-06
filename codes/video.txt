@@ -1,0 +1,1 @@
+img = video(img ,my.rt ,20,'toblack' )

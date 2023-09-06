@@ -1,0 +1,6 @@
+images list refresh fnc
+images list ref fnc bind to F7 shourtcut
+imported image converted auto to RGB format
+added .webp iamges
+still - show all type of iamges when saving
+still - deleting selected image using Del keyboard btn 

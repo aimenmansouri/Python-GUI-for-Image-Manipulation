@@ -1,0 +1,10 @@
+x = ([i for i in range(256)])
+r = my.histogram(img)[0]
+g = my.histogram(img)[1]
+b = my.histogram(img)[2]
+plt.figure(strid())
+plt.plot(x ,r ,color ='r' ,label = 'red')
+plt.plot(x ,g ,color ='g' ,label = 'green')
+plt.plot(x ,b ,color = 'b' ,label = 'blue')
+plt.legend()
+plt.show()

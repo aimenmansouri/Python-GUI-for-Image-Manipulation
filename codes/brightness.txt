@@ -1,0 +1,1 @@
+img = my.incr_pixel(img,50)
